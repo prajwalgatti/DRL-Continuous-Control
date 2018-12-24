@@ -38,6 +38,10 @@ It can also be reduced by tuning the hyperparameters.
 
 The saved weights of the Actor and Critic networks can be found [here.](https://github.com/prajwalgatti/DRL-Continuous-Control/tree/master/savedmodels)
 
+Follow setup [here.](https://github.com/prajwalgatti/DRL-Continuous-Control/blob/master/Setup.md)
+
+Train the network [here.](https://github.com/prajwalgatti/DRL-Continuous-Control/blob/master/Continuous_Control.ipynb)
+
 ## Ideas for Future Work
 
 - Search for better hyperparameters of algorithm as well as neural network
