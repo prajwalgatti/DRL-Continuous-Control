@@ -10,7 +10,7 @@ This projects implements DDPG for continous control for the [Reacher](https://gi
 
 ## Learning Algorithm Used
 
-The reinforcement learning agent implementation follows the ideas of [arXiv:1509.02971](https://arxiv.org/abs/1511.06581) paper implementing a DDPG agent. It is an Actor-Critic method.
+The reinforcement learning agent implementation follows the ideas of [arXiv:1509.02971](https://arxiv.org/abs/1509.02971) paper implementing a DDPG agent. It is an Actor-Critic method.
 The algorithm helps the agent to act in an environment with a goal of solving the task defined by the environment as well as explore the environment in order to improve the agent's behaviour. The algorithm is also augmented with the fixed-Q target, double network, soft-updates and experience replay.
 The agent exploits the initial lack of knowledge as well as Ornstein–Uhlenbeck process-generated noise to explore the environment.
 
